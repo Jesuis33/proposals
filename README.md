@@ -7,6 +7,10 @@
 
 [ECMAScript Internationalization API Specification](ecma402/README.md) proposals
 
+## Contributing new proposals
+
+Please see [Contributing to ECMAScript](https://github.com/tc39/ecma262/blob/HEAD/CONTRIBUTING.md) for the most up-to-date information on contributing proposals to this standard.
+
 ## Active proposals
 
 Proposals follow [this process document](https://tc39.es/process-document/).
